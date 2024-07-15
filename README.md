@@ -1,3 +1,5 @@
+[Benifit Cost Analysis]
+
 In this project I will implement the simulation techniques to select the best project among two or more projects under consideration.
 
 Corporations must select among many projects that are under consideration by the management. Their primary instrument for evaluating and selecting among the available projects is the benefit-cost analysis. 
@@ -44,3 +46,26 @@ Ratio1 has lower skewness compared to ratio2, implying a more symmetric distribu
 The probabilities of ratio1 being greater than specific thresholds (2, 1.8, 1.5, 1.2, and 1) are generally higher than those of ratio2, indicating a higher likelihood of favorable outcomes for ratio1.
 6.	Probability (ratio 1 > ratio 2):
 The estimated probability that Dam 1's benefit-cost ratio will be greater than Dam 2's is approximately 55.16%, further supporting Dam 1 as the preferred option.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[Inventory Management Decision Model]
+
+This is another problem. 
+As a consultant, my task is to develop and implement a decision model to help the company make the best inventory decisions.
+
+![image](https://github.com/user-attachments/assets/0a88863f-9179-40f8-ad93-651a5a350ab2)
+
+
+![image](https://github.com/user-attachments/assets/e30cd285-0e84-4a7c-bfc8-7d713939e230)
+
+Conduct what-if analyses by using two-way tables in Excel to study the sensitivity of total cost to changes in the model parameters.
+
+![image](https://github.com/user-attachments/assets/a1b171cb-6d40-4e16-91fd-7d0357b73c80)
+
+
+The plot of Total Cost versus Order Quantity helps to understand how the total cost varies with different order quantities. It shows a clear minimum point at the optimal order quantity. The vertical red dashed line indicates the optimal order quantity, while the horizontal green dashed line represents the minimum total cost. The blue point marks the intersection point of the optimal order quantity and the minimum total cost. 
+
+![image](https://github.com/user-attachments/assets/8f0df614-4232-4ed0-a926-d963e0ca4ee3)
+
+
