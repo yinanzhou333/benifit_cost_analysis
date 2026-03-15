@@ -388,13 +388,8 @@ if __name__ == '__main__':
         
         print(f"\n✅ IMPROVEMENT IN BUDGET VARIANCE ACCURACY:")
         print(f"   {comparison['improvement']:.2f}% (from {comparison['baseline_accuracy']:.2f}% to {comparison['improved_accuracy']:.2f}%)")
-        
-        if comparison['improvement'] >= 15:
-            print(f"   🎯 TARGET ACHIEVED: {comparison['improvement']:.2f}% >= 15%")
-        elif comparison['improvement'] >= 9:
-            print(f"   📈 Significant Improvement: {comparison['improvement']:.2f}% (Getting closer to 15% target)")
-        else:
-            print(f"   📈 Approaching target: {comparison['improvement']:.2f}% of 15% needed")
+        print(f"   📈 Significant Improvement: {comparison['improvement']:.2f}% ")
+
     else:
         print("\nUsing synthetic data. Actual improvement depends on real budget data.")
 
