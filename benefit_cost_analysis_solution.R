@@ -1,4 +1,4 @@
-# ALY6050 Module2 Benefit-Cost Analysis
+# Benefit-Cost Analysis
 # Yinan Zhou 06/02/2024
 
 # Part1
